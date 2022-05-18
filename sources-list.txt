@@ -1,4 +1,4 @@
-                           #sources.list of debian 9#
+                           #sources.list of debian 11#
 --------------------------------------------------------------------------------------------
 deb http://deb.debian.org/debian bullseye main contrib non-free
 deb-src http://deb.debian.org/debian bullseye main contrib non-free
